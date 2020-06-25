@@ -16,11 +16,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 ##Subheader
-
-* Item 1
-* Item 2
-	* Item 2a
-	* Item 2b
+* blau
+* farbe
 * Item 3
 * Item 4
 * Item 5
