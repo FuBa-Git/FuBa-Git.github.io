@@ -22,4 +22,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * Item 4
 * Item 5
 * Item 6
-* Item 7
